@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
