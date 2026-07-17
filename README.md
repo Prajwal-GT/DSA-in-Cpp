@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
@@ -28,6 +29,7 @@
 | [0035-search-insert-position](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
