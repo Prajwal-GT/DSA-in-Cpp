@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
@@ -33,6 +34,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -61,6 +64,7 @@
 | [0069-sqrtx](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1539-kth-missing-positive-number) |
@@ -74,6 +78,7 @@
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -124,6 +129,7 @@
 | [0001-two-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
