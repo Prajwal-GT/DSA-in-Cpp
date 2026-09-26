@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
@@ -104,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0283-move-zeroes) |
@@ -125,4 +128,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
