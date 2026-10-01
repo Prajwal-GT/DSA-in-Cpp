@@ -46,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -78,6 +80,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1539-kth-missing-positive-number) |
@@ -137,6 +140,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -180,4 +184,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
