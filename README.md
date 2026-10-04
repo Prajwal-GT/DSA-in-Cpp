@@ -15,6 +15,7 @@
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -85,6 +86,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1539-kth-missing-positive-number) |
@@ -149,6 +151,7 @@
 | [0283-move-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
 ## Dynamic Programming
 |  |
