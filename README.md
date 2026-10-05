@@ -59,6 +59,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
@@ -89,6 +90,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -106,6 +108,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +157,7 @@
 | [0344-reverse-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
