@@ -41,6 +41,7 @@
 | [0035-search-insert-position](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
 ## Game Theory
