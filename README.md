@@ -63,6 +63,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
+| [1095-find-in-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -100,6 +101,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1095-find-in-mountain-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
@@ -231,4 +233,12 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
