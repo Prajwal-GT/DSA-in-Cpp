@@ -43,6 +43,7 @@
 | [0048-rotate-image](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
