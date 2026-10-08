@@ -49,6 +49,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
@@ -181,6 +182,7 @@
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
 ## Game Theory
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
