@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -75,6 +76,7 @@
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
