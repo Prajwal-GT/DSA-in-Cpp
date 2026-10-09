@@ -54,6 +54,7 @@
 | [0162-find-peak-element](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
@@ -100,6 +101,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
@@ -151,6 +153,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1095-find-in-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
