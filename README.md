@@ -19,6 +19,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1323-maximum-69-number) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1323-maximum-69-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1323-maximum-69-number) |
 ## Stack
 |  |
 | ------- |
