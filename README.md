@@ -82,6 +82,7 @@
 | [1672-richest-customer-wealth](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3046-split-the-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/3046-split-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
+| [3046-split-the-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/3046-split-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3046-split-the-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/3046-split-the-array) |
 ## String
 |  |
 | ------- |
