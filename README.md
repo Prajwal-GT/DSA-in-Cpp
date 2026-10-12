@@ -45,6 +45,7 @@
 | [0045-jump-game-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
@@ -129,6 +130,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
@@ -237,6 +239,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
