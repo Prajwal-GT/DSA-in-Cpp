@@ -58,6 +58,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@
 | [0056-merge-intervals](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
@@ -236,6 +238,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0344-reverse-string) |
 ## Quicksort
@@ -253,6 +256,7 @@
 | [0011-container-with-most-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [1323-maximum-69-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1323-maximum-69-number) |
 ## Stack
 |  |
