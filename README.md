@@ -189,6 +189,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0018-4sum) |
@@ -215,6 +216,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
@@ -304,4 +307,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0070-climbing-stairs) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
