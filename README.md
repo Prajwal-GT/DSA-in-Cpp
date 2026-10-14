@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
@@ -311,4 +313,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
