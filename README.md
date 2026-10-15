@@ -49,6 +49,7 @@
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@
 | [0015-3sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0088-merge-sorted-array) |
@@ -238,6 +240,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
@@ -253,6 +256,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
