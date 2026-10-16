@@ -79,6 +79,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
@@ -188,6 +189,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Matrix
