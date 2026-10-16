@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0048-rotate-image) |
@@ -107,6 +108,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
@@ -336,4 +338,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
