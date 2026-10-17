@@ -225,6 +225,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
+| [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -275,6 +276,7 @@
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0389-find-the-difference) |
+| [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [0045-jump-game-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
+| [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1323-maximum-69-number) |
 ## Stack
 |  |
