@@ -79,6 +79,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
@@ -235,6 +237,7 @@
 | [0344-reverse-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
@@ -300,6 +303,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -311,6 +315,7 @@
 | [0045-jump-game-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1323-maximum-69-number) |
 ## Stack
