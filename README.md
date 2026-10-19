@@ -29,6 +29,7 @@
 | [0258-add-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [0344-reverse-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
