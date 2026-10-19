@@ -70,6 +70,7 @@
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
@@ -268,6 +269,7 @@
 | [0049-group-anagrams](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
@@ -350,6 +352,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0219-contains-duplicate-ii) |
 ## Memoization
 |  |
 | ------- |
