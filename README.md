@@ -283,6 +283,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0125-valid-palindrome) |
@@ -313,6 +314,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
@@ -369,4 +371,8 @@
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
