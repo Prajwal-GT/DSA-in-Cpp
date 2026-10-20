@@ -102,6 +102,7 @@
 | [1672-richest-customer-wealth](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1672-richest-customer-wealth) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1929-concatenation-of-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3046-split-the-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/3046-split-the-array) |
 ## Bit Manipulation
@@ -145,6 +146,7 @@
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1539-kth-missing-positive-number) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
