@@ -61,6 +61,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -261,6 +262,7 @@
 | [0045-jump-game-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
