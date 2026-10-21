@@ -93,6 +93,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0821-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
@@ -257,6 +258,7 @@
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0821-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0922-sort-array-by-parity-ii) |
@@ -321,6 +323,7 @@
 | [0392-is-subsequence](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0821-shortest-distance-to-a-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
