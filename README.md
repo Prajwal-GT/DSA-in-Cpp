@@ -75,6 +75,7 @@
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0219-contains-duplicate-ii) |
@@ -278,6 +279,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
