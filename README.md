@@ -95,6 +95,7 @@
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0554-brick-wall) |
+| [0605-can-place-flowers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0724-find-pivot-index) |
@@ -362,6 +363,7 @@
 | [0135-candy](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1323-maximum-69-number) |
 ## Stack
