@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1929-concatenation-of-array) |
@@ -62,6 +63,7 @@
 | [0054-spiral-matrix](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -332,6 +334,7 @@
 | [0049-group-anagrams](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0165-compare-version-numbers) |
