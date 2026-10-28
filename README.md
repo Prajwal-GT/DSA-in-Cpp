@@ -223,6 +223,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/3046-split-the-array) |
 ## Prefix Sum
 |  |
@@ -322,6 +323,7 @@
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0554-brick-wall) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/3046-split-the-array) |
 ## String
 |  |
@@ -347,6 +349,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0821-shortest-distance-to-a-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Quicksort
 |  |
 | ------- |
