@@ -12,6 +12,7 @@
 | [0069-sqrtx](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
@@ -349,6 +351,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0389-find-the-difference) |
@@ -385,6 +388,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0224-basic-calculator) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
