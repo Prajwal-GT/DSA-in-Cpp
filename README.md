@@ -94,6 +94,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
@@ -198,6 +199,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0905-sort-array-by-parity) |
@@ -329,6 +331,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0523-continuous-subarray-sum) |
