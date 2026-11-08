@@ -145,6 +145,7 @@
 | [0002-add-two-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0224-basic-calculator) |
@@ -283,6 +284,7 @@
 | [0125-valid-palindrome](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -409,6 +411,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0224-basic-calculator) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
@@ -472,6 +475,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0203-remove-linked-list-elements) |
