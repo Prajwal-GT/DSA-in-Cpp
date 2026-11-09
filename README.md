@@ -303,6 +303,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0821-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0977-squares-of-a-sorted-array) |
@@ -481,6 +482,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0876-middle-of-the-linked-list) |
 ## Cartesian Tree
 |  |
 | ------- |
