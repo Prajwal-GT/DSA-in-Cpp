@@ -19,6 +19,7 @@
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0633-sum-of-square-numbers) |
@@ -414,6 +415,7 @@
 | [0042-trapping-rain-water](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0224-basic-calculator) |
+| [0445-add-two-numbers-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0445-add-two-numbers-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -483,6 +485,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0876-middle-of-the-linked-list) |
 ## Cartesian Tree
 |  |
