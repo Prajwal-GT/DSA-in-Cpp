@@ -356,6 +356,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
@@ -387,6 +388,7 @@
 | [0389-find-the-difference](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0821-shortest-distance-to-a-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2390-removing-stars-from-a-string) |
@@ -459,6 +461,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0643-maximum-average-subarray-i) |
 ## Memoization
 |  |
