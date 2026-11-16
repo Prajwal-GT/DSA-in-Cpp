@@ -103,6 +103,7 @@
 | [0457-circular-array-loop](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0554-brick-wall) |
+| [0561-array-partition](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0643-maximum-average-subarray-i) |
@@ -218,6 +219,7 @@
 | [0414-third-maximum-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3046-split-the-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/3046-split-the-array) |
@@ -418,6 +421,7 @@
 | [0135-candy](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1323-maximum-69-number) |
